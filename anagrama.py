@@ -1,0 +1,5 @@
+a = input("EnterS1 ")
+b = input("EnterS2 ")
+a = sorted(a)
+b = sorted(b)
+print(a==b)
